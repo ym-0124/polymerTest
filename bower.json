@@ -1,0 +1,27 @@
+{
+  "name": "My application",
+  "authors": [
+    "ym-0124 <https://github.com/ym-0124>"
+  ],
+  "description": "first bower test",
+  "main": "main.js",
+  "moduleType": [],
+  "keywords": [
+    "bower",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.test.co.jp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-1.10.1": "http://code.jquery.com/jquery-1.10.1.js",
+    "polymer": "Polymer/polymer#^1.2.4"
+  }
+}
